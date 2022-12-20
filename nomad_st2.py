@@ -53,7 +53,7 @@ print(
 )
 
 
-# 주스 메이커
+# 주스 메이커(22.12.20)
 def make_juice(fruit):
   return f"{fruit}+🍸"
 
